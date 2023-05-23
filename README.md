@@ -1,2 +1,2 @@
-# task1
-test
+# to run the tests use the command
+npm run task 
